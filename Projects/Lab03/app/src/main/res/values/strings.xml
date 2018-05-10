@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="enter">Enter</string>
+    <string name="teampick">Select a team to see its information</string>
+    <string-array name="team">
+        <item>Jacksonville Jaguars</item>
+        <item>New England Patriots</item>
+        <item>Minnesota Vikings</item>
+        <item>Philadelphia Eagles</item>
+    </string-array>
+</resources>

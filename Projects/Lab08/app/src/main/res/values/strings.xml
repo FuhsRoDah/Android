@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="mapSpin">
+        <item>Hometown</item>
+        <item>Current Town</item>
+        <item>Want to Visit</item>
+    </string-array>
+</resources>

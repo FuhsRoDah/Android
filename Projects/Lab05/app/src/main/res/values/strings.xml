@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignment 4</string>
+    <string name="frag_one">Movie Details</string>
+    <string name="frag_two">Seekbar</string>
+    <string name="textview"></string>
+    <string name="loadnext">Load Next Movie</string>
+    <string name="title"></string>
+    <string name="description"></string>
+    <string name="year"></string>
+    <string name="stars"></string>
+    <string name="url"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textview_frag1">Hello World</string>
+    <string name="textview_frag2"> About Me:\n
+        Carleton Fuhs\n
+        CSCI 343 Introduction to Mobile App Development\n
+        Computer Science, Senior\n
+        Hobbies include reading, playing video games, and\n
+        hanging out with friends.
+    </string>
+</resources>

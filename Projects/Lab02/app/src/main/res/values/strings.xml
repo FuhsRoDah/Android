@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="onClickBill">Calculate Bill</string>
+    <string name="tipSelectText">Tip Selection:</string>
+    <string-array name="tipValue">
+        <item>5%(Poor)</item>
+        <item>10%(Good)</item>
+        <item>20%(Excellent)</item>
+    </string-array>
+</resources>

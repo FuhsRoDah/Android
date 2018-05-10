@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string name="welcome">Welcome to Mad Libs. This is a game where you will be asked
+    to fill in words to complete a story. To get started click the button below. Enjoy!</string>
+    <string name="start">Get Started</string>
+    <string name="userinput"></string>
+    <string name="fillprompt">Fill in the words to complete the story!</string>
+    <string name="ok">Ok</string>
+    <string name="story"></string>
+    <string name="createnew">Create a new story</string>
+    <string name="wordsleft"></string>
+    <string name="wordtype"></string>
+</resources>

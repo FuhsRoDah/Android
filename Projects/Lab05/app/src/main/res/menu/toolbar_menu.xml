@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    android:id="@+id/toolbar_menu_layout"
+    <item
+        android:id="@+id/frag_one"
+        android:title="@string/frag_one"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/frag_two"
+        android:title="@string/frag_two"
+        app:showAsAction="never" />
+</menu>

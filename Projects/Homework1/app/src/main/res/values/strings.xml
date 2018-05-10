@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sally Seamstress</string>
+    <string name="baseprice">125</string>
+    <string name="basetext">Base Price:</string>
+    <string name="sizetext">Dress Size:</string>
+    <string-array name="size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large($100)</item>
+        <item>Extra Large($100)</item>
+    </string-array>
+    <string name="materialtext">Dress Material:</string>
+    <string-array name="material">
+        <item>Cotton($50)</item>
+        <item>Flannel($25)</item>
+        <item>Linen($75)</item>
+        <item>Polyester(no additional fee)</item>
+        <item>Silk($150)</item>
+    </string-array>
+    <string name="pockettext">Dress Pocket(s):</string>
+    <string-array name="pocket">
+        <item>1($30)</item>
+        <item>2($60)</item>
+        <item>3($90)</item>
+        <item>4($120)</item>
+    </string-array>
+    <string name="enter">Enter</string>
+</resources>
